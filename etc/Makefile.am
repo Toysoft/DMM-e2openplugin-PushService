@@ -1,3 +1,0 @@
-installdir = $(sysconfdir)/enigma2
-
-
